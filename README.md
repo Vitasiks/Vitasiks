@@ -1,4 +1,25 @@
-## Hi there 👋
+# Vitalii Ivanchuk
+
+Junior Python developer based in Norway.
+
+I build practical web tools, automation and data-driven products.
+
+## Featured project
+
+### JobbPeil
+
+Norwegian job-search and labour-market navigation platform.
+
+- Python
+- SQLite
+- NAV / Arbeidsplassen data
+- custom vacancy matching
+- email alerts
+- production deployment on Ubuntu VPS
+
+Live: https://jobbpeil.no
+
+Repository: https://github.com/Vitasiks/jobbpeil
 
 <!--
 **Vitasiks/Vitasiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
