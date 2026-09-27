@@ -20,7 +20,7 @@ Norwegian job-search and labour-market navigation platform.
 Live: https://jobbpeil.no
 
 Repository: https://github.com/Vitasiks/jobbpeil
-
+Open to junior Python, backend, automation and data-focused opportunities in Norway.
 <!--
 **Vitasiks/Vitasiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
