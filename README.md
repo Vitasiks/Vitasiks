@@ -1,38 +1,92 @@
 # Vitalii Ivanchuk
 
-Junior Python developer based in Norway.
+### Python Backend Developer | Web Applications & Automation
 
-I build practical web tools, automation and data-driven products.
+Based in Norway 🇳🇴
 
-## Featured project
+I build practical web applications, automation tools and data-driven solutions.
 
-### JobbPeil
+My focus is on Python backend development, working with databases, APIs, and deploying real applications to production.
 
-Norwegian job-search and labour-market navigation platform.
+---
 
-- Python
-- SQLite
-- NAV / Arbeidsplassen data
-- custom vacancy matching
-- email alerts
-- production deployment on Ubuntu VPS
+## 🚀 Featured Projects
 
-Live: https://jobbpeil.no
+### 🔹 JobbPeil — Norwegian Job Search Platform
 
-Repository: https://github.com/Vitasiks/jobbpeil
+A live web platform designed to help people discover job opportunities across Norway.
 
-Open to junior Python, backend, automation and data-focused opportunities in Norway.
-<!--
-**Vitasiks/Vitasiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Key features:**
+- Job listings from NAV / Arbeidsplassen
+- Profession and location-based search
+- Custom vacancy matching
+- Personalized email job alerts
+- Automated data processing
+- Production deployment on Ubuntu VPS
 
-Here are some ideas to get you started:
+**Technologies:** Python, SQLite, HTML, CSS, JavaScript, Linux, Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Live website:** https://jobbpeil.no
+
+💻 **GitHub:** https://github.com/Vitasiks/jobbpeil
+
+---
+
+### 🔹 Mitt Bykle — Community & Relocation Platform
+
+A mobile-first digital platform developed as an independent prototype for Bykle municipality in Norway.
+
+The project aims to make it easier for people to discover local opportunities, find housing and access practical relocation information.
+
+**Key features:**
+- Local job listings from multiple employers
+- Housing opportunities in Bykle and Hovden
+- Step-by-step relocation guidance
+- Integration of public information sources
+- Responsive mobile-first interface
+- Employer and vacancy data management
+
+**Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Jinja2, Docker, HTML, CSS, JavaScript
+
+**Project status:** Working prototype / pilot concept.
+
+🌐 **Live website:** https://mittbykle.no
+
+🔒 **Source code:** Private repository
+
+---
+
+## 🛠 Technical Skills
+
+**Backend:** Python, FastAPI, REST APIs
+
+**Databases:** PostgreSQL, SQLite, SQLAlchemy, Alembic
+
+**Frontend:** HTML, CSS, JavaScript, Jinja2
+
+**Infrastructure:** Linux, Ubuntu VPS, Nginx, Git, GitHub, Docker
+
+**Other:** Automation, data integration, testing, debugging, production deployment
+
+---
+
+## 🎯 Professional Interests
+
+I am interested in opportunities involving:
+
+- Python backend development
+- Web applications and API integration
+- Automation and data processing
+- Practical digital solutions for businesses and communities
+
+I enjoy turning real-world problems into working software.
+
+---
+
+## 📫 Contact & Projects
+
+**GitHub:** https://github.com/Vitasiks
+
+**JobbPeil:** https://jobbpeil.no
+
+**Mitt Bykle:** https://mittbykle.no
